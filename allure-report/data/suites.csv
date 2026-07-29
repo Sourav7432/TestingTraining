@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","24","openNetflixHomePage","Netflix Test Suite","2026-07-29","broken","2026-07-29","testcases.LoginPracticeExpandTest","Netflix Tests","testcases.LoginPracticeExpandTest","openNetflixHomePage"
